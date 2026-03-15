@@ -1,13 +1,14 @@
 # fonctions
 Petit programme développé en python pour représenter des fonctions affines et quadratiques
 
+
+Installation 
+Sur Linux
 1. Ouvrir l'invite de commande 
 
-2. git clone https://github.com/adm971/fonctions.git
+2. sudo apt update && sudo apt upgrade && sudo apt install python3 && sudo apt install python3-pip && pip3 install cx-freeze && git clone https://github.com/adm971/fonctions.git gg cd fonctions && python3 setup.py 
 
-3. python setup.py
-
-4. un dossier "build" sera généré, l'ouvrir et chercher le programme "main" à lancer
+3. un dossier "build" sera généré, l'ouvrir et chercher le programme "main" à lancer
 
 
 Une fois le programme lancé 
