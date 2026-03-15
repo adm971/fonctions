@@ -19,4 +19,4 @@ setup(
     executables=[Executable("main.py", base=base)]
 )
 
-# python setup.py build
+# commande : python setup.py build
