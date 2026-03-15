@@ -6,6 +6,5 @@ Il est possible de compiler ce code en un programme éxécutable à l'aide de se
 
 python set.up.py 
 
-Une fois le programme lancé 
-Il est possible de représenter des fonctions affines ou quadratiques soit en entrant soit meme les valeurs de x, a, b, ou c soit en 
-laissant les cases vides pour laisser le programme générer aléatoirement les fonctions
+Le programme se trouvera dans un dossier "build" nouvellement créé et s'appellera "main.py"
+Une fois le programme lancé, il est possible de représenter des fonctions affines ou quadratiques soit en entrant soit meme les valeurs de x, a, b, ou c soit en laissant les cases vides pour laisser le programme générer aléatoirement les fonctions
