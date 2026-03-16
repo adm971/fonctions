@@ -30,7 +30,7 @@ python -m pip install cx_Freeze
 
 3. Compiler le programme :
 
-python setup.py 
+python setup.py build
 
 4. Lancer le programme :
 
